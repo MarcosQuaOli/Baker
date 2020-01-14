@@ -1,2 +1,3 @@
 # Baker
-Projeto Web com uma página.
+
+Projeto Desenvolvido a partir de uma template da Web.
